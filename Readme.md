@@ -2,4 +2,6 @@ teste software
 
 linguagem git, eu to aprendendo.
 
-modifiquei esse trem
+fazendo aula de git com o qa.coders academy.
+
+usando linhas de comandos.
